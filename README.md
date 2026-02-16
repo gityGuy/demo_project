@@ -1,2 +1,4 @@
 this is the deom project where i am using and the git commands and push 
-to Git hub fir the first time.
+to Git hub for the first time.
+
+i have added README.md
