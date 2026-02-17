@@ -27,5 +27,5 @@ hi man this message is from local drive
 
 hi i this message from github
 
- added new line from git locally
- added new line from github Message
+added new line from git locally
+added new line from github Message
