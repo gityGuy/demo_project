@@ -23,4 +23,9 @@ i have added README.md
 - Or minuses
 + Or pluses
 
+<<<<<<< HEAD
 hi man this message is from local drive 
+=======
+
+hi i this message from github
+>>>>>>> 3843f458bda3e5b72dd833d5254470e0298f3996
